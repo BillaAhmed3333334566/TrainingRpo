@@ -4,10 +4,8 @@ div.main-body {
   grid-template-areas: "navbar mainContent";
   grid-gap: 20px;
   background-color: red;
-  font-size: 12rem;
-  grid-gap: 20px;
-  background-color: red;
-  font-size: 12rem;
+
+  /* HELLO lol */
 }
 
 nav#navbar {

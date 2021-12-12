@@ -5,6 +5,9 @@ div.main-body {
   grid-gap: 20px;
   background-color: red;
   font-size: 12rem;
+  grid-gap: 20px;
+  background-color: red;
+  font-size: 12rem;
 }
 
 nav#navbar {

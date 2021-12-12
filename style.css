@@ -4,6 +4,7 @@ div.main-body {
   grid-template-areas: "navbar mainContent";
   grid-gap: 20px;
   background-color: red;
+  /* HELLO lol */
 }
 
 nav#navbar {
